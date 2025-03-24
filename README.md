@@ -2,16 +2,17 @@
 
 
 ### About Me
- - 📫 E-mail **jaelim@gmail.com**
+📫 E-mail **jaelim@gmail.com**
   
- - 📄 Notion [https://jaelim6285.notion.site/98ddefcdeccc4b3297e1daf9af755cd5?pvs=4](https://jaelim6285.notion.site/98ddefcdeccc4b3297e1daf9af755cd5?pvs=4)
+📄 Notion [https://jaelim6285.notion.site/98ddefcdeccc4b3297e1daf9af755cd5?pvs=4](https://jaelim6285.notion.site/98ddefcdeccc4b3297e1daf9af755cd5?pvs=4)
 
 <p align="left">
   <br><br>
 </p>
 
 <h3 align="left"> Current Project:</h3>
- https://jaelim6285.notion.site/EDDI-TCG-Card-Game-Convert-Project-157f5dd0dc1a805eb9f1e1d07d59c7f0?pvs=4
+<img src="https://github.com/Leejaelim/Leejaelim/blob/main/game%20logo%20icon.png" alt="your-image" width="300" height="300"/>
+🔗 project document: https://jaelim6285.notion.site/EDDI-TCG-Card-Game-Convert-Project-157f5dd0dc1a805eb9f1e1d07d59c7f0?pvs=4
  
 <p align="left">
   <br><br>
