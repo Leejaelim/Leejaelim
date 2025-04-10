@@ -28,8 +28,8 @@
 
 <h3 align="left"> My GitHub Stats:</h3>
 <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=leejaelim&show_icons=true&locale=en" alt="leejaelim" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leejaelim&" alt="leejaelim" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=leejaelim&show_icons=true&theme=dark&title_color=bbaaf8&text_color=bbaaf8&locale=en" alt="leejaelim" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leejaelim&theme=dark" alt="leejaelim" />
 </div>
 
 
