@@ -93,8 +93,3 @@
   <br><br>
 </p>
 
-<h3 align="left"> My GitHub Stats:</h3>
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=leejaelim&show_icons=true&theme=transparent&locale=en&hide_border=true" alt="leejaelim" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leejaelim&theme=transparent&hide_border=true" alt="leejaelim" />
-</div>
