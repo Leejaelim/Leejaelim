@@ -4,7 +4,6 @@
 ### About Me
 📫 E-mail **jaelim@gmail.com**
   
-📄 Notion [https://jaelim6285.notion.site/98ddefcdeccc4b3297e1daf9af755cd5?pvs=4](https://jaelim6285.notion.site/98ddefcdeccc4b3297e1daf9af755cd5?pvs=4)
 
 <p align="left">
   <br><br>
